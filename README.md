@@ -1,4 +1,4 @@
-# A-B-Test
+# A/B Test
 ### Hipotez:
 
 H0: "gate_30" ve "gate_40" versiyonları arasında toplam oyun oynama süreleri açısından anlamlı bir fark yoktur.
