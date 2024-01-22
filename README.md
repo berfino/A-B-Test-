@@ -1,11 +1,11 @@
 # A-B-Test
-Hipotez:
+###Hipotez:
 
 H0: "gate_30" ve "gate_40" versiyonları arasında toplam oyun oynama süreleri açısından anlamlı bir fark yoktur.
 
 H1: "gate_30" ve "gate_40" versiyonları arasında toplam oyun oynama süreleri açısından anlamlı bir fark vardır.
 
-Columns:
+###Columns:
 
 userid : Her bir kullanıcıya özel bir numara.
 
